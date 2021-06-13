@@ -1,0 +1,28 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.29)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk
+iPhoneOS14.4.sdk
+/Users/kirillmagerya/Library/Developer/Xcode/DerivedData/TestFramework-bugfxqyhnqvqkpdxsufrigqkohvo/Build/Intermediates.noindex/ArchiveIntermediates/TestFramework/IntermediateBuildFilesPath/TestFramework.build/Release-iphoneos/TestFramework.build/DerivedSources/TestFramework_vers.c
+/Users/kirillmagerya/Desktop/TestFramework
+__METACLASS_DATA__TtC13TestFramework13TestFramework
+__DATA__TtC13TestFramework13TestFramework
+_$s13TestFrameworkMXM
+_$s13TestFrameworkAACMf
+_symbolic _____ 13TestFrameworkAAC
+_$s13TestFrameworkAACMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_TestFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_TestFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_TestFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_TestFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_TestFramework
+___swift_reflection_version
+_objc_classes
+Apple clang version 12.0.0 (clang-1200.0.32.28)
+<swift-imported-modules>
+Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+/Users/kirillmagerya/Desktop/TestFramework/TestFramework/TestFramework.swift
+$s13TestFrameworkAACMa
+<compiler-generated>
+deinit
+init
